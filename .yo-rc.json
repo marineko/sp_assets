@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "asset-deployment-webpart",
+    "libraryId": "e41e0ba1-6188-4ccc-898d-586902de471a",
+    "environment": "spo"
+  }
+}
